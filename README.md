@@ -19,4 +19,8 @@
 
 #### TODO
 - Use web3 and React to implement a simple test GUI
+- Highscores
+- Real-time transaction log
+- Address lookup
 - Something with REST
+- Other stuff

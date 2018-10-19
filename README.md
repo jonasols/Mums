@@ -15,3 +15,8 @@
 ### Running tests from console:
 - truffle test ./test/TestMumsToken.sol
 - truffle test ./test/mumstoken.js
+
+
+#### TODO
+- Use web3 and React to implement a simple test GUI
+- Something with REST
